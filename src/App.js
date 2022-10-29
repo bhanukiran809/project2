@@ -9,6 +9,7 @@ function App() {
      <h1>i am kiran doing project4</h1>
      <h1>i am kiran doing project5</h1>
      <h1>i am kiran doing project6</h1>
+     <h1>i am kiran doing project7</h1>
 
     </div>
   );
